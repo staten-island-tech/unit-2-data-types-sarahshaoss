@@ -35,26 +35,13 @@ if day_of_the_week == "Friday" :
 else:
     print("Incorrect")
  """
-temp=75
-if temp > 68:
-    print("warm")
-elif temp ==68:
-    print("perfect")
-else:
-    print("cold")
 
-number = 2
+number = 13
 if number == [1,3,5,7,9]:
     print("odd")
 else:
-    print("even")
+    print("even") 
 
-tip = 15
-if tip == 0:
-    print("bad")
-elif tip == 15:
-    print("okay")
-elif tip == 20:
-    print("good")
-elif tip == 25:
-    print("great")
+
+
+factors = [1,2,3,4,6,12]
