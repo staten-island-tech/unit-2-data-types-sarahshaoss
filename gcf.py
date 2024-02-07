@@ -1,6 +1,4 @@
 
-
-# Python program to find GCD of two numbers
  
  
 # Function to find gcd of two numbers
