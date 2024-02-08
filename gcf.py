@@ -1,7 +1,5 @@
 
- 
- 
-# Function to find gcd of two numbers
+# Function to find gcf of two numbers
 def gcf(a, b):
  
     # Find minimum of a and b
