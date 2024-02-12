@@ -1,6 +1,6 @@
 #Data types
 #numbers 1,2,3 etc
-""" def add(x,y):
+def add(x,y):
     print(x + y)
 add(1,2)
 #strings "a,b,c"
@@ -12,7 +12,7 @@ greeting(name)
 add("1","2")
 #undefined/null
 
-#booleans soemthing is true or flase
+""" #booleans soemthing is true or flase
 tenure = True
 def is_tenured(status):
     if(status == True):
@@ -34,15 +34,13 @@ if day_of_the_week == "Friday" :
     print("Correct")
 else:
     print("Incorrect")
- """
-""" temp=75
+
+temp=75
 if temp > 68:
     print("warm")
 elif temp ==68:
     print("perfect")
 else:
-    print("cold") """
+    print("cold")
+ """
 
-
-
-factors = [1,2,3,4,6,12]

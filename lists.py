@@ -8,10 +8,10 @@ for animal in animals:
 #Strings operate like lists
 x = "Hello Freshman, you all smell"
 
-""" print(x[0]) 
+print(x[0]) 
 
 y = x.upper()
-print(y) """
+print(y)
 
 words_list = x.split(" ")
 print(len(words_list))
