@@ -1,4 +1,4 @@
-bill = int(input("how much was your meal?"))
+bill = float(input("how much was your meal?"))
 
 
 tip = input("How was the service?")

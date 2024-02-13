@@ -1,4 +1,4 @@
-#Data types
+""" #Data types
 #numbers 1,2,3 etc
 def add(x,y):
     print(x + y)
@@ -10,7 +10,7 @@ def greeting(person):
 greeting(name)
 #1 and "1" are not the same
 add("1","2")
-#undefined/null
+#undefined/null """
 
 """ #booleans soemthing is true or flase
 tenure = True
@@ -19,7 +19,7 @@ def is_tenured(status):
         print("They have tenure")
     else:
         print("They are not tenured")
-is_tenured(tenure)
+is_tenured(tenure) """
 
 values = [1,2,23,5,7,2,30,15]
 print(values)
@@ -29,18 +29,18 @@ for i in values:
 print(values[0])
 print(values[6])
 
-day_of_the_week = input("what day is it?")
+""" day_of_the_week = input("what day is it?")
 if day_of_the_week == "Friday" :
     print("Correct")
 else:
-    print("Incorrect")
+    print("Incorrect") """
 
-temp=75
+""" temp=75
 if temp > 68:
     print("warm")
 elif temp ==68:
     print("perfect")
 else:
-    print("cold")
- """
+    print("cold") """
+
 
