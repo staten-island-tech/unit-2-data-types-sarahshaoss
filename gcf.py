@@ -5,4 +5,4 @@ for i in range (1, number_1 + 1):
         factors = [i]
 else:
     factors.append
-print(factors[-1]) 
+print(factors[-1])
