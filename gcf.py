@@ -1,21 +1,8 @@
-
-# Function to find gcf of two numbers
-def gcf(a, b):
- 
-    # Find minimum of a and b
-    result = min(a, b)
- 
-    while result:
-        if a % result == 0 and b % result == 0:
-            break
-        result -= 1
- 
-    # Return the gcd of a and b
-    return result
- 
- 
-# Driver Code
-if __name__ == '__main__':
-    a = 98
-    b = 56
-    print(f"GCF of {a} and {b} is {gcf(a, b)}")
+number_1 = int(input("give me a number "))
+number_2 = int(input("give me another number "))
+for i in range (1, number_1 + 1):
+    if number_1%i == 0 and number_2%i == 0:
+        factors = [i]
+else:
+    factors.append
+print(factors[-1]) 
